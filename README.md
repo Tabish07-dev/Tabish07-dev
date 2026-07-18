@@ -1,12 +1,25 @@
 <h1 align="center">Hi 👋, I'm Tabish Ali Soomro</h1>
 
 <h3 align="center">
-Full Stack MERN Developer from Pakistan 🇵🇰
+🚀 Full Stack MERN Developer from Pakistan 🇵🇰
 </h3>
 
 <p align="center">
 I build modern, fast and responsive web applications using the MERN Stack and Next.js.
-Currently looking for Remote Internship and Junior Developer opportunities.
+</p>
+
+<p align="center">
+💼 Open to Remote Internship & Junior Developer Opportunities
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MERN-Stack-00C853?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-Developer-black?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Remote%20Jobs-blue?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -14,7 +27,7 @@ Currently looking for Remote Internship and Junior Developer opportunities.
 # 🚀 About Me
 
 - 💻 Full Stack MERN Developer
-- 🌱 Currently learning Advanced Next.js & PostgreSQL
+- 🌱 Currently learning **Advanced Next.js & PostgreSQL**
 - 🚀 Passionate about building modern web applications
 - 📍 Dadu, Sindh, Pakistan
 - 💼 Open to Remote Opportunities
@@ -24,7 +37,7 @@ Currently looking for Remote Internship and Junior Developer opportunities.
 
 # 🛠 Tech Stack
 
-## Frontend
+## 🎨 Frontend
 
 - HTML5
 - CSS3
@@ -34,17 +47,17 @@ Currently looking for Remote Internship and Junior Developer opportunities.
 - Tailwind CSS
 - Bootstrap
 
-## Backend
+## ⚙ Backend
 
 - Node.js
 - Express.js
 
-## Database
+## 🗄 Database
 
 - MongoDB
 - PostgreSQL
 
-## Tools
+## 🛠 Tools
 
 - Git
 - GitHub
@@ -56,23 +69,18 @@ Currently looking for Remote Internship and Junior Developer opportunities.
 # 🚀 Featured Projects
 
 ### 💬 MERN Social App
-
 Modern social platform built using MERN Stack.
 
 ### 🛒 E-Commerce Store
-
 Responsive online shopping application.
 
 ### 🍔 Restaurant Website
-
 Modern restaurant landing page.
 
 ### ✅ Task Management App
-
 Manage daily tasks efficiently.
 
 ### 👨‍💻 Developer Portfolio
-
 Personal portfolio showcasing projects and skills.
 
 ---
@@ -80,16 +88,16 @@ Personal portfolio showcasing projects and skills.
 # 📫 Connect With Me
 
 📧 Email:
-tabisoomro7861@gmail.com
+**tabisoomro7861@gmail.com**
 
 💼 LinkedIn:
-https://linkedin.com/in/tabish-ali-6922a13a0
+**https://linkedin.com/in/tabish-ali-6922a13a0**
 
 🌐 Portfolio:
-https://portfolio-zeta-sage-97.vercel.app/
+**https://portfolio-zeta-sage-97.vercel.app/**
 
 🐙 GitHub:
-https://github.com/Tabish07-dev
+**https://github.com/Tabish07-dev**
 
 ---
 
@@ -106,4 +114,5 @@ https://github.com/Tabish07-dev
 ---
 
 ⭐ Thanks for visiting my profile.
-Let's build something amazing together!
+
+### Let's build something amazing together! 🚀
